@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=ad_gestures
+name=Ambient Display Gestures
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=ronell1292k
+description=Ports Ambient Display (Doze) Gestures to *almost* all AOSP ROMs
 minMagisk=17000
