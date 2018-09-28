@@ -25,7 +25,7 @@
 AUTOMOUNT=true
 
 # Set to true if you need to load system.prop
-PROPFILE=true
+PROPFILE=false
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
@@ -40,9 +40,9 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Ambient Display Gestures    "
-  ui_print "*******************************"
+  ui_print "*******************************************"
+  ui_print "  Ambient Display Gestures by ronell1292k  "
+  ui_print "*******************************************"
 }
 
 ##########################################################################################
