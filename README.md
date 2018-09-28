@@ -1,4 +1,4 @@
-**Ambient Dislay Gestures for stock and near stock ROMs
+**Ambient Dislay Gestures for stock and near stock ROMs**
 
 Includes:
 Hand Wave - Triggers Ambient Display
