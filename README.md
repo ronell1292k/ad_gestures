@@ -39,9 +39,9 @@ Pixel Experience (I picked the DeviceSettings.apk from them)
 
 John Wu AKA @topjohnwu (for Magisk and for an easy to follow template)
 
-RhyseRhyse Simpson AKA @skittles9823 (for the helpful Magisk Development/Help chat which got me hooked into making this module)
+Rhyse Simpson AKA @skittles9823 (for the helpful Magisk Development/Help chat which got me hooked into making this module)
 
-JoeyJoey Huab AKA @stalllix (for helping out when I occasionally hit a wall)
+Joey Huab AKA @stalllix (for helping out when I occasionally hit a wall)
 
 
 **Sources:**
