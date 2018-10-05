@@ -12,8 +12,14 @@ A simple module to add a few nifty ambient display tweaks to your AOSP ROM
 
 
 *Hand Wave - Triggers Ambient Display
+
+
 *Pick-up - Triggers Ambient Display
+
+
 *Pocket - Triggers Ambient Display
+
+
 *Proximity wake - Wakes device
 
 
